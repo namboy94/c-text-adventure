@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1397340406 source:c:\users\hermann\skydrive\c\programming text adventure\main.c
+	"header/hkcalculatorv23.h"
+
+1397119195 c:\users\hermann\skydrive\c\programming text adventure\header\hkcalculatorv23.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+
