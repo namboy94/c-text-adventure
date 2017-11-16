@@ -2,7 +2,7 @@
 
 ![Logo](resources/logo/logo-readme.png)
 
-This is a text adventure game written in C (think Zork).
+This is a text adventure game written in C (like Zork).
 
 ## Further Information
 
